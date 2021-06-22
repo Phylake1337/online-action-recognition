@@ -1,7 +1,7 @@
 # Online Action Recognition
 
 <p align="center">
-	<img src="https://media.giphy.com/media/hI1K1Bq3O2DIrWRmtg/giphy.gif">
+	<img src="https://media.giphy.com/media/1JuYlg4tWNuceBrgyn/giphy.gif">
 </p>
 
 
