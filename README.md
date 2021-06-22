@@ -2,6 +2,8 @@
 
 <p align="center">
 	<img src="https://github.com/Phylake1337/online-action-recognition/blob/master/GIFs/1.gif">
+	<img src="https://github.com/Phylake1337/online-action-recognition/blob/master/GIFs/2.gif">
+	<img src="https://github.com/Phylake1337/online-action-recognition/blob/master/GIFs/3.gif">
 </p>
 
 
