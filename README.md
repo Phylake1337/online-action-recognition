@@ -1,6 +1,7 @@
 # Online Action Recognition
 
 <p align="center">
+	<img src="https://github.com/The-FaZe/real-time-action-recognition/blob/master/recognition.PNG" width="350" height="350">
 	<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" height="350">
 </p>
 
