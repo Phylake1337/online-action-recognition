@@ -1,6 +1,9 @@
 # Online Action Recognition
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p align="center">
+	<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" height="350">
+</p>
+
 
 
 
