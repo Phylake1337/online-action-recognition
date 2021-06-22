@@ -2,6 +2,7 @@
 
 <p align="center">
 	<img src="https://github.com/The-FaZe/real-time-action-recognition/blob/master/recognition.PNG" width="350" height="350">
+	![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </p>
 
 Kindly, check our latest video [[Youtube Link](https://www.youtube.com/watch?v=-Ztm4shAPHM&t=4s)]
