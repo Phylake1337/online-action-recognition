@@ -1,10 +1,6 @@
 # Online Action Recognition
 
-<p align="center">
-	![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-</p>
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Kindly, check our latest video [[Youtube Link](https://www.youtube.com/watch?v=-Ztm4shAPHM&t=4s)]
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
