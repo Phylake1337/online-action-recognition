@@ -1,9 +1,12 @@
 # Online Action Recognition
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p align="center">
+	![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+</p>
+
+
 
 Kindly, check our latest video [[Youtube Link](https://www.youtube.com/watch?v=-Ztm4shAPHM&t=4s)]
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Table of Contents
 * [Introduction](#Introduction)
